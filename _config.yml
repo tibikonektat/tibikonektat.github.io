@@ -14,7 +14,7 @@ plugins:
 # Propinas voluntarias (cripto, sin verificar identidad): pon aqui tus
 # direcciones de wallet cuando las tengas. Se muestran en about.md.
 propinas:
-  btc: "TU_DIRECCION_BTC"
+  btc: "18Fd8eedoxbn8Wr78LzsR53Wx8Shgh7Wk8"
   eth_usdt: "TU_DIRECCION_ETH_O_USDT_ERC20"
 
 permalink: /:year/:month/:day/:title/

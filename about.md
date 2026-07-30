@@ -17,8 +17,9 @@ se sostiene con publicidad de [A-Ads](https://a-ads.com) (una red de anuncios
 que paga en criptomonedas y no requiere verificar tu identidad para
 publicarlos) y con propinas voluntarias de quien quiera apoyar el proyecto:
 
-- BTC: `TU_DIRECCION_BTC`
-- ETH / USDT (ERC-20): `TU_DIRECCION_ETH_O_USDT_ERC20`
+- BTC: `{{ site.propinas.btc }}`
+- ETH / USDT (ERC-20): `{{ site.propinas.eth_usdt }}`
 
-(Sustituye estas direcciones por las tuyas en `_config.yml` — se generan
-gratis en cualquier wallet, sin darte de alta en ningun sitio.)
+(Las direcciones se configuran una sola vez en `_config.yml`, bajo
+`propinas:` — se generan gratis en cualquier wallet, sin darte de alta en
+ningun sitio.)
