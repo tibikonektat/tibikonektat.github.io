@@ -15,6 +15,6 @@ plugins:
 # direcciones de wallet cuando las tengas. Se muestran en about.md.
 propinas:
   btc: "18Fd8eedoxbn8Wr78LzsR53Wx8Shgh7Wk8"
-  eth_usdt: "TU_DIRECCION_ETH_O_USDT_ERC20"
+  eth_usdt: "0x826b18e3aa96bb02daaa1d06b09028ba5f428a3e"
 
 permalink: /:year/:month/:day/:title/
