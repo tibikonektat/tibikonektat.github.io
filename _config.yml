@@ -1,0 +1,20 @@
+title: "Cripto y Trading, explicado"
+description: "Contenido educativo sobre criptomonedas y trading, generado con ayuda de IA y revisado antes de publicar. No es asesoramiento financiero."
+theme: minima
+minima:
+  skin: auto
+  social_links:
+    instagram: TU_USUARIO_INSTAGRAM   # cambia esto cuando crees la cuenta
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap   # genera sitemap.xml automaticamente (para que Google Search
+                     # Console pueda indexar el sitio -- ver README.md)
+
+# Propinas voluntarias (cripto, sin verificar identidad): pon aqui tus
+# direcciones de wallet cuando las tengas. Se muestran en about.md.
+propinas:
+  btc: "TU_DIRECCION_BTC"
+  eth_usdt: "TU_DIRECCION_ETH_O_USDT_ERC20"
+
+permalink: /:year/:month/:day/:title/
