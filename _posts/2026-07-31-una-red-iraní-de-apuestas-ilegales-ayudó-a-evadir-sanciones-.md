@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Una red iraní de apuestas ilegales ayudó a evadir sanciones por valor de 4,000 mdd - Forbes México"
-date: 2026-07-31 17:16:02 +0000
+title: "Una red iraní de apuestas ilegales ayudó a evadir sanciones por un valor de 4.000 millones de dólares - Infobae"
+date: 2026-07-31 17:16:19 +0000
 categories: cripto
 ---
 
 *(Articulo de ejemplo generado sin conexion a un LLM -- define GEMINI_API_KEY (gratis) o ANTHROPIC_API_KEY para generacion real)*
 
-Este es un placeholder para un articulo sobre 'Una red iraní de apuestas ilegales ayudó a evadir sanciones por valor de 4,000 mdd - Forbes México'.
+Este es un placeholder para un articulo sobre 'Una red iraní de apuestas ilegales ayudó a evadir sanciones por un valor de 4.000 millones de dólares - Infobae'.
 
 *Contenido informativo, no es asesoramiento financiero.*
 
