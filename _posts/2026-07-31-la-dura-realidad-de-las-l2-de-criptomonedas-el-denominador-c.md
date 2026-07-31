@@ -19,4 +19,8 @@ A continuación, destacamos los puntos clave sobre la situación actual de estas
 Este artículo es contenido informativo, no asesoramiento financiero.
 
 ---
-*Este articulo es contenido informativo/educativo, no asesoramiento financiero. Este blog se financia con publicidad (A-Ads) y propinas voluntarias, no con enlaces de afiliado -- ver [Sobre este blog](/about/).*
+*Este articulo es contenido informativo/educativo, no asesoramiento financiero. Este blog se financia con publicidad (A-Ads) y propinas voluntarias, no con enlaces de afiliado.*
+
+**¿Te ha sido útil? Propina voluntaria (opcional):** BTC `18Fd8eedoxbn8Wr78LzsR53Wx8Shgh7Wk8` &nbsp;·&nbsp; ETH/USDT `0x826b18e3aa96bb02daaa1d06b09028ba5f428a3e`
+
+[Más sobre este blog](/about/)
