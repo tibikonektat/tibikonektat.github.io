@@ -14,6 +14,31 @@ archivos a GitHub y ellos lo construyen y publican automáticamente.
   se financia el sitio y el aviso de que no es asesoramiento financiero).
 - `_includes/custom-foot.html`: aquí pegas el código de A-Ads cuando lo
   tengas (se inserta solo en todas las páginas, no hay que tocar nada más).
+- `descargas.md` + `descargas/`: página de descargas gratuitas con histórico
+  de velas de 15m de BTC y ETH (ver sección más abajo).
+
+## Descargas gratuitas de histórico (BTC/ETH 15m)
+
+`descargas.md` enlaza a dos CSV en `descargas/` (BTCUSDT_15m.csv,
+ETHUSDT_15m.csv) para que cualquiera los baje gratis. Se generan y mantienen
+al día con `../ia/publicar_historicos_en_blog.py`, que:
+
+1. Descarga las velas nuevas de BTC y ETH (15m) desde la API pública de
+   Bitget (sin API key, solo datos de mercado).
+2. Copia los CSV actualizados a `descargas/`.
+3. Hace `git add/commit/push` de este repositorio.
+
+Para que quede siempre al día sin tocar nada, prográmalo en el Programador
+de tareas de Windows para que corra una vez al día:
+
+1. Abre "Programador de tareas" → Crear tarea básica.
+2. Desencadenador: Diariamente, a la hora que prefieras.
+3. Acción: Iniciar un programa → `pythonw.exe` (o `python.exe`) con
+   argumento `C:\Users\jaume\Desktop\ia\publicar_historicos_en_blog.py` y
+   "Iniciar en": `C:\Users\jaume\Desktop\ia`.
+
+También puedes ejecutarlo a mano cuando quieras: `python
+publicar_historicos_en_blog.py` desde la carpeta `ia`.
 
 ## Monetización: sin afiliados, con A-Ads + propinas
 
