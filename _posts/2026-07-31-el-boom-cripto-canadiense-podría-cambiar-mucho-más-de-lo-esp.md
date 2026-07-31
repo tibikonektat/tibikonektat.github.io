@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "El boom cripto canadiense podría cambiar mucho más de lo esperado - Cointribune"
-date: 2026-07-31 13:15:06 +0000
+title: "El boom cripto canadiense podría cambiar mucho más de lo esperado - cointribune.com"
+date: 2026-07-31 20:17:16 +0000
 categories: cripto
 ---
 
 *(Articulo de ejemplo generado sin conexion a un LLM -- define GEMINI_API_KEY (gratis) o ANTHROPIC_API_KEY para generacion real)*
 
-Este es un placeholder para un articulo sobre 'El boom cripto canadiense podría cambiar mucho más de lo esperado - Cointribune'.
+Este es un placeholder para un articulo sobre 'El boom cripto canadiense podría cambiar mucho más de lo esperado - cointribune.com'.
 
 *Contenido informativo, no es asesoramiento financiero.*
 
